@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TCHelloWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TCHelloWorld_jar</output-path>
+    <root id="archive" name="TCHelloWorld.jar">
+      <element id="module-output" name="TCHelloWorld" />
+    </root>
+  </artifact>
+</component>
